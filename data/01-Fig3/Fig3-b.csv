@@ -1,0 +1,2 @@
+﻿point_index,x_mm,y_mm,z_mm,B_posX_max_mT,B_negX_max_mT,B_posY_max_mT,B_negY_max_mT,B_posZ_max_mT,B_negZ_max_mT,six_axis_min_mT,limiting_axis,source_summary,match_decimals
+0,0.0,0.0,0.0,70.94503066884931,70.94698600078266,64.18907171332586,64.20280708419376,56.38513616870452,56.385117534970995,56.385117534970995,-Z,D:\00-Code\1-python\conda_envs\pythonobject\PaperGraph\Comp\src\Fig3 workspace GA\src\Fig3-c\Fix_p0\data_three_points_six_axis_ga_p0_pair_convergence\2026-06-22_08-41-34_three_points_summary.csv,3
