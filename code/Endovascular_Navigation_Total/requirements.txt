@@ -1,0 +1,10 @@
+numpy
+opencv-python
+scipy
+scikit-image
+ultralytics
+nibabel
+pyvista
+smbus2
+pyserial
+casadi
